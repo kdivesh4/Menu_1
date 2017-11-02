@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Computer Science"
+        android:id="@+id/item1"
+        android:showAsAction="withText" />
+    <item android:title="BMS"
+        android:id="@+id/item2" />
+    <item android:title="BFIA"
+        android:id="@+id/item3" />
+    <item android:title="Biology"
+        android:id="@+id/item4" />
+</menu>
